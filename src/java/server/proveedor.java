@@ -31,6 +31,7 @@ public class proveedor {
     @WebMethod(operationName = "novedades")
     public String novedades() {
         //TODO write your implementation code here:
+        //Preguntar a la profe si se puede hacer una string y asi devolver un json
         return null;
     }
 
